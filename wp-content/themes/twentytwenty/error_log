@@ -1,0 +1,8 @@
+[28-Aug-2024 11:42:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/acekineticshealt/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/acekineticshealt/public_html/wp-content/themes/twentytwenty/404.php on line 10
+[29-Aug-2024 04:05:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/acekineticshealt/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/acekineticshealt/public_html/wp-content/themes/twentytwenty/404.php on line 10

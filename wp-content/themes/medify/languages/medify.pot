@@ -1,0 +1,3661 @@
+# Copyright (C) 2022 WebGeniusLab
+# This file is distributed under the same license as the WebGeniusLab package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WebGeniusLab\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: medify/404.php:29
+msgid "404"
+msgstr ""
+
+#: medify/404.php:30
+msgid "Sorry We Can't Find That Page!"
+msgstr ""
+
+#: medify/404.php:31
+msgid "The page you are looking for was moved, removed, renamed or never existed."
+msgstr ""
+
+#: medify/404.php:36, medify/search.php:110
+msgid "Take Me Home"
+msgstr ""
+
+#: medify/category.php:26
+msgid "Category:"
+msgstr ""
+
+#: medify/comments.php:41
+msgctxt "comments title"
+msgid "Comments <span class=\"number-comments\">(%1$s)</span>"
+msgid_plural "Comments <span class=\"number-comments\">(%1$s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: medify/comments.php:37
+msgctxt "comments title"
+msgid "Comment <span class=\"number-comments\">(01)</span>"
+msgstr ""
+
+#: medify/comments.php:72, medify/comments.php:72
+msgid "Name *"
+msgstr ""
+
+#: medify/comments.php:73, medify/comments.php:73
+msgid "Email *"
+msgstr ""
+
+#: medify/comments.php:74, medify/comments.php:74
+msgid "Website"
+msgstr ""
+
+#: medify/comments.php:76
+msgid "Your Comment"
+msgstr ""
+
+#: medify/core/class/dynamic-styles.php:61
+msgid "Like"
+msgstr ""
+
+#: medify/core/class/dynamic-styles.php:62
+msgid "Unlike"
+msgstr ""
+
+#: medify/core/class/dynamic-styles.php:88
+msgid "Clear"
+msgstr ""
+
+#: medify/core/class/dynamic-styles.php:89
+msgid "Clear color"
+msgstr ""
+
+#: medify/core/class/dynamic-styles.php:90, medify/core/includes/metabox/metabox-config.php:194, medify/core/includes/metabox/metabox-config.php:206, medify/core/includes/metabox/metabox-config.php:218, medify/core/includes/metabox/metabox-config.php:230, medify/core/includes/metabox/metabox-config.php:253, medify/core/includes/metabox/metabox-config.php:369, medify/core/includes/metabox/metabox-config.php:470, medify/core/includes/metabox/metabox-config.php:538, medify/core/includes/metabox/metabox-config.php:717, medify/core/includes/metabox/metabox-config.php:920, medify/core/includes/metabox/metabox-config.php:1039, medify/core/includes/metabox/metabox-config.php:1283, medify/core/includes/metabox/metabox-config.php:1688, medify/core/includes/metabox/metabox-config.php:1869, medify/core/includes/metabox/metabox-config.php:1984, medify/core/includes/metabox/metabox-config.php:2029, medify/core/includes/metabox/metabox-config.php:2139, medify/core/includes/metabox/metabox-config.php:2252, medify/core/includes/redux/redux-config.php:3719, medify/core/includes/redux/redux-config.php:3897, medify/core/includes/redux/redux-config.php:3967, medify/core/includes/redux/redux-config.php:4431, medify/core/includes/redux/redux-config.php:4903, medify/core/includes/redux/redux-config.php:5491, medify/core/includes/redux/redux-config.php:5686, medify/core/includes/redux/redux-config.php:5764, medify/functions.php:102, medify/functions.php:210
+msgid "Default"
+msgstr ""
+
+#: medify/core/class/dynamic-styles.php:91
+msgid "Select default color"
+msgstr ""
+
+#: medify/core/class/dynamic-styles.php:92
+msgid "Select"
+msgstr ""
+
+#: medify/core/class/dynamic-styles.php:93
+msgid "Color value"
+msgstr ""
+
+#: medify/core/class/dynamic-styles.php:122, medify/core/class/theme-verify.php:211, medify/core/class/theme-verify.php:325
+msgid "Thank you, your license has been validated"
+msgstr ""
+
+#: medify/core/class/single-post.php:870
+msgid "by"
+msgstr ""
+
+#: medify/core/class/single-post.php:876
+msgid "Comment"
+msgstr ""
+
+#: medify/core/class/single-post.php:876
+msgid "Comments"
+msgstr ""
+
+#: medify/core/class/single-post.php:949
+msgid " Views"
+msgstr ""
+
+#: medify/core/class/single-post.php:946
+msgid " View"
+msgstr ""
+
+#: medify/core/class/single-post.php:994
+msgid "About"
+msgstr ""
+
+#: medify/core/class/theme-cat-meta.php:61, medify/core/class/theme-cat-meta.php:93
+msgid "Color"
+msgstr ""
+
+#: medify/core/class/theme-cat-meta.php:97, medify/core/class/theme-cat-meta.php:142, medify/core/class/walker-mega-menu.php:309, medify/core/includes/redux/redux-config.php:3502
+msgid "Background Image"
+msgstr ""
+
+#: medify/core/class/theme-cat-meta.php:101, medify/core/class/theme-cat-meta.php:110, medify/core/class/theme-cat-meta.php:128, medify/core/class/theme-cat-meta.php:153, medify/core/class/theme-cat-meta.php:171, medify/core/class/theme-cat-meta.php:195
+msgid "Add Image"
+msgstr ""
+
+#: medify/core/class/theme-cat-meta.php:102, medify/core/class/theme-cat-meta.php:111, medify/core/class/theme-cat-meta.php:129, medify/core/class/theme-cat-meta.php:154, medify/core/class/theme-cat-meta.php:172, medify/core/class/theme-cat-meta.php:196
+msgid "Remove Image"
+msgstr ""
+
+#: medify/core/class/theme-cat-meta.php:106, medify/core/class/theme-cat-meta.php:124, medify/core/class/theme-cat-meta.php:160, medify/core/class/theme-cat-meta.php:184
+msgid "Icon Image"
+msgstr ""
+
+#: medify/core/class/theme-helper.php:249, medify/single.php:193
+msgid "Load More"
+msgstr ""
+
+#: medify/core/class/theme-helper.php:425
+msgid "Published in"
+msgstr ""
+
+#: medify/core/class/theme-helper.php:447
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: medify/core/class/theme-helper.php:465
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: medify/core/class/theme-likes.php:33
+msgid "Not permitted"
+msgstr ""
+
+#: medify/core/class/theme-panel.php:59, medify/core/class/theme-panel.php:60
+msgid "WebGeniusLab"
+msgstr ""
+
+#: medify/core/class/theme-panel.php:69, medify/core/class/theme-panel.php:70
+msgid "Welcome"
+msgstr ""
+
+#: medify/core/class/theme-panel.php:78, medify/core/class/theme-panel.php:79
+msgid "Theme Plugins"
+msgstr ""
+
+#: medify/core/class/theme-panel.php:88, medify/core/class/theme-panel.php:89
+msgid "Requirements"
+msgstr ""
+
+#: medify/core/class/theme-panel.php:97, medify/core/class/theme-panel.php:98
+msgid "Activate Theme"
+msgstr ""
+
+#: medify/core/class/theme-panel.php:105, medify/core/class/theme-panel.php:106
+msgid "Help Center"
+msgstr ""
+
+#: medify/core/class/theme-panel.php:113, medify/core/class/theme-panel.php:114, medify/core/includes/redux/redux-config.php:69, medify/core/includes/redux/redux-config.php:70
+msgid "Theme Options"
+msgstr ""
+
+#: medify/core/class/theme-support.php:44
+msgid "Main menu"
+msgstr ""
+
+#: medify/core/class/theme-support.php:69
+msgid "Add widget here to appear it in custom sidebar."
+msgstr ""
+
+#: medify/core/class/theme-support.php:81
+msgid "Footer Column 1"
+msgstr ""
+
+#: medify/core/class/theme-support.php:85
+msgid "Footer Column 2"
+msgstr ""
+
+#: medify/core/class/theme-support.php:89
+msgid "Footer Column 3"
+msgstr ""
+
+#: medify/core/class/theme-support.php:93
+msgid "Footer Column 4"
+msgstr ""
+
+#: medify/core/class/theme-support.php:102
+msgid "This area will display in footer like a column. Add widget here to appear it in footer column."
+msgstr ""
+
+#: medify/core/class/theme-support.php:112
+msgid "Shop Products"
+msgstr ""
+
+#: medify/core/class/theme-support.php:116
+msgid "Shop Single"
+msgstr ""
+
+#: medify/core/class/theme-support.php:120
+msgid "Shop Filter"
+msgstr ""
+
+#: medify/core/class/theme-support.php:128
+msgid "This sidebar will display in WooCommerce Pages."
+msgstr ""
+
+#: medify/core/class/theme-support.php:138, medify/core/includes/metabox/metabox-config.php:1679, medify/core/includes/metabox/metabox-config.php:1684, medify/core/includes/redux/redux-config.php:388, medify/core/includes/redux/redux-config.php:436, medify/core/includes/redux/redux-config.php:2518, medify/core/includes/redux/redux-config.php:2553, medify/core/includes/redux/redux-config.php:2832, medify/core/includes/redux/redux-config.php:2862, medify/core/includes/redux/redux-config.php:4721
+msgid "Side Panel"
+msgstr ""
+
+#: medify/core/class/theme-verify.php:100
+msgid " Theme is not activated! Please activate your copy and enjoy using all features of the %s theme"
+msgstr ""
+
+#: medify/core/class/theme-verify.php:104
+msgid "Please activate the theme!"
+msgstr ""
+
+#: medify/core/class/theme-verify.php:106
+msgid "Activate Now"
+msgstr ""
+
+#: medify/core/class/theme-verify.php:152
+msgid "<strong>Your support period will be expired after %d days. <a href=\"%s\">You can prolong support</a> services as you need.</strong>"
+msgstr ""
+
+#: medify/core/class/theme-verify.php:150
+msgid "<strong>Your support period expired. <a href=\"%s\">You can prolong support</a> services as you need.</strong>"
+msgstr ""
+
+#: medify/core/class/theme-verify.php:162
+msgid "Remind me later"
+msgstr ""
+
+#: medify/core/class/theme-verify.php:163
+msgid "Hide and disable further reminders"
+msgstr ""
+
+#: medify/core/class/theme-verify.php:185
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: medify/core/class/theme-verify.php:192
+msgid "Purchase code is empty "
+msgstr ""
+
+#: medify/core/class/theme-verify.php:175
+msgid "Please enter a valid field"
+msgstr ""
+
+#: medify/core/class/theme-verify.php:267
+msgid "Success"
+msgstr ""
+
+#: medify/core/class/walker-comment.php:42
+msgid "Pingback:"
+msgstr ""
+
+#: medify/core/class/walker-comment.php:42
+msgid "(Edit)"
+msgstr ""
+
+#: medify/core/class/walker-comment.php:61, medify/core/class/walker-mega-menu.php:579
+msgid "Edit"
+msgstr ""
+
+#: medify/core/class/walker-comment.php:66
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: medify/core/class/walker-comment.php:70
+msgid "Reply"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:230
+msgid "All"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:262
+msgid "Medify Mega Menu Settings:"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:262
+msgid "(Only for Main Menu)"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:266
+msgid "WGL Mega Menu Settings"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:273
+msgid "Enable The Mega Menu?"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:275
+msgid "Disable"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:277
+msgid "Posts - Vertical Sub-Categories Filter"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:278
+msgid "Posts - Horizontal Sub-Categories Filter"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:280
+msgid "Mega Menu Columns"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:288
+msgid "Posts Count"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:296
+msgid "Number of Mega Menu Columns"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:312
+msgid "Upload"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:317
+msgid "Background Repeat"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:319
+msgid "No Repeat"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:320
+msgid "Repeat"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:321
+msgid "Repeat X"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:322
+msgid "Repeat Y"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:329
+msgid "Background Position X"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:331, medify/core/includes/metabox/metabox-config.php:293, medify/core/includes/metabox/metabox-config.php:1812, medify/core/includes/metabox/metabox-config.php:1841, medify/core/includes/redux/redux-config.php:1779, medify/core/includes/redux/redux-config.php:1822, medify/core/includes/redux/redux-config.php:1865, medify/core/includes/redux/redux-config.php:1908, medify/core/includes/redux/redux-config.php:1951, medify/core/includes/redux/redux-config.php:1994, medify/core/includes/redux/redux-config.php:2037, medify/core/includes/redux/redux-config.php:2080, medify/core/includes/redux/redux-config.php:2123, medify/core/includes/redux/redux-config.php:2166, medify/core/includes/redux/redux-config.php:2209, medify/core/includes/redux/redux-config.php:2252, medify/core/includes/redux/redux-config.php:2805, medify/core/includes/redux/redux-config.php:4243, medify/core/includes/redux/redux-config.php:4254, medify/core/includes/redux/redux-config.php:4338, medify/core/includes/redux/redux-config.php:4804, medify/core/includes/redux/redux-config.php:4826, medify/core/includes/redux/redux-config.php:5593, medify/core/includes/redux/redux-config.php:5604
+msgid "Right"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:332, medify/core/class/walker-mega-menu.php:343, medify/core/includes/metabox/metabox-config.php:292, medify/core/includes/metabox/metabox-config.php:1811, medify/core/includes/redux/redux-config.php:1778, medify/core/includes/redux/redux-config.php:1821, medify/core/includes/redux/redux-config.php:1864, medify/core/includes/redux/redux-config.php:1907, medify/core/includes/redux/redux-config.php:1950, medify/core/includes/redux/redux-config.php:1993, medify/core/includes/redux/redux-config.php:2036, medify/core/includes/redux/redux-config.php:2079, medify/core/includes/redux/redux-config.php:2122, medify/core/includes/redux/redux-config.php:2165, medify/core/includes/redux/redux-config.php:2208, medify/core/includes/redux/redux-config.php:2251, medify/core/includes/redux/redux-config.php:4242, medify/core/includes/redux/redux-config.php:4253, medify/core/includes/redux/redux-config.php:4337, medify/core/includes/redux/redux-config.php:4803, medify/core/includes/redux/redux-config.php:5592, medify/core/includes/redux/redux-config.php:5603
+msgid "Center"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:333, medify/core/includes/metabox/metabox-config.php:291, medify/core/includes/metabox/metabox-config.php:1810, medify/core/includes/metabox/metabox-config.php:1840, medify/core/includes/redux/redux-config.php:1777, medify/core/includes/redux/redux-config.php:1820, medify/core/includes/redux/redux-config.php:1863, medify/core/includes/redux/redux-config.php:1906, medify/core/includes/redux/redux-config.php:1949, medify/core/includes/redux/redux-config.php:1992, medify/core/includes/redux/redux-config.php:2035, medify/core/includes/redux/redux-config.php:2078, medify/core/includes/redux/redux-config.php:2121, medify/core/includes/redux/redux-config.php:2164, medify/core/includes/redux/redux-config.php:2207, medify/core/includes/redux/redux-config.php:2250, medify/core/includes/redux/redux-config.php:2804, medify/core/includes/redux/redux-config.php:4241, medify/core/includes/redux/redux-config.php:4252, medify/core/includes/redux/redux-config.php:4336, medify/core/includes/redux/redux-config.php:4802, medify/core/includes/redux/redux-config.php:4825, medify/core/includes/redux/redux-config.php:5591, medify/core/includes/redux/redux-config.php:5602
+msgid "Left"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:340
+msgid "Background Position Y"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:342, medify/core/includes/redux/redux-config.php:1788, medify/core/includes/redux/redux-config.php:1831, medify/core/includes/redux/redux-config.php:1874, medify/core/includes/redux/redux-config.php:1917, medify/core/includes/redux/redux-config.php:1960, medify/core/includes/redux/redux-config.php:2003, medify/core/includes/redux/redux-config.php:2046, medify/core/includes/redux/redux-config.php:2089, medify/core/includes/redux/redux-config.php:2132, medify/core/includes/redux/redux-config.php:2175, medify/core/includes/redux/redux-config.php:2218, medify/core/includes/redux/redux-config.php:2261
+msgid "Top"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:344, medify/core/includes/redux/redux-config.php:1790, medify/core/includes/redux/redux-config.php:1833, medify/core/includes/redux/redux-config.php:1876, medify/core/includes/redux/redux-config.php:1919, medify/core/includes/redux/redux-config.php:1962, medify/core/includes/redux/redux-config.php:2005, medify/core/includes/redux/redux-config.php:2048, medify/core/includes/redux/redux-config.php:2091, medify/core/includes/redux/redux-config.php:2134, medify/core/includes/redux/redux-config.php:2177, medify/core/includes/redux/redux-config.php:2220, medify/core/includes/redux/redux-config.php:2263
+msgid "Bottom"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:351
+msgid "Min Height"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:359
+msgid "Max Width"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:367
+msgid "Padding Left"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:374
+msgid "Padding Right"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:382
+msgid "Hide Mega Menu headings?"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: medify/core/class/walker-mega-menu.php:533
+msgid "%s (Pending)"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:529
+msgid "%s (Invalid)"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:547
+msgid "sub item"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:562
+msgid "Move up"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:575
+msgid "Move down"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:579
+msgid "Edit menu item"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:588, medify/core/includes/metabox/metabox-config.php:691
+msgid "URL"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:595
+msgid "Navigation Label"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:601
+msgid "Title Attribute"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:608, medify/core/includes/redux/redux-config.php:1005, medify/core/includes/redux/redux-config.php:1198
+msgid "Open link in a new tab"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:613
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:619
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:625, medify/core/includes/metabox/metabox-config.php:83, medify/core/includes/metabox/metabox-config.php:166, medify/core/includes/metabox/metabox-config.php:173
+msgid "Description"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:627
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:638
+msgid "Move"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:639
+msgid "Up one"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:640
+msgid "Down one"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:643
+msgid "To the top"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:655
+msgid "Original: %s"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:668
+msgid "Remove"
+msgstr ""
+
+#: medify/core/class/walker-mega-menu.php:669
+msgid "Cancel"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-activate-theme.php:74
+msgid "Thank you!"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-activate-theme.php:77
+msgid "Your theme's license is activated successfully."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-activate-theme.php:96
+msgid "Deactivate"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-activate-theme.php:26
+msgid "Activate your Licence"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-activate-theme.php:29
+msgid "Welcome and thank you for Choosing %s Theme!"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-activate-theme.php:31
+msgid "The %s theme needs to be activated to enable all features, import demo and Support."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-activate-theme.php:37
+msgid "How to find purchase code?"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-activate-theme.php:41, medify/core/dashboard/tpl-view-activate-theme.php:42
+msgid "E-mail address"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-activate-theme.php:46, medify/core/dashboard/tpl-view-activate-theme.php:47
+msgid "Enter Your Purchase Code"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-activate-theme.php:60, medify/core/tgm/class-tgm-plugin-activation.php:2796
+msgid "Activate"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-activate-theme.php:104
+msgid "1 license  = 1 domain = 1 website"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-activate-theme.php:105
+msgid "You can always buy more licences for this product:"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:70
+msgid "Theme Config"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:75
+msgid "Theme Name"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:79, medify/core/dashboard/tpl-view-status.php:322, medify/core/tgm/class-tgm-plugin-activation.php:2623
+msgid "Version"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:83
+msgid "Author URL"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:97
+msgid "Server Settings"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:102
+msgid "PHP Version"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:113
+msgid "- We recommend a minimum PHP version of "
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:128
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:133
+msgid " You cannot upload images, themes and plugins that have a size bigger than this value: "
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:140, medify/core/dashboard/tpl-view-status.php:167, medify/core/dashboard/tpl-view-status.php:200, medify/core/dashboard/tpl-view-status.php:232, medify/core/dashboard/tpl-view-status.php:266, medify/core/dashboard/tpl-view-status.php:342
+msgid " To see how you can change this please check this guide"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:149
+msgid "PHP Max Execution Time Limit"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:161
+msgid "- We recommend setting max execution time to at least "
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:183
+msgid "PHP Max Input Time"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:194
+msgid "- We recommend setting max input time to at least "
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:216
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:227
+msgid ". We recommend minimum value: %d. Max input vars limitation will truncate POST data such as menus."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:247
+msgid "MySql Version"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:251
+msgid "Max upload size"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:261
+msgid ". We recommend minimum value: 128 MB."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:281
+msgid "SimpleXML"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:296
+msgid "Enabled"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:289
+msgid "To ensure successful installation of demo content The SimpleXML extension should be installed on your web server. Please contact your hosting provider to install and activate SimpleXML extension."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:309
+msgid "WordPress Settings"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:314
+msgid "Home Url"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:318
+msgid "Site Url"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:326
+msgid "Memory Limit"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:337
+msgid " .We recommend setting memory to be at least 128MB."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:371
+msgid "WP_DEBUG is disabled."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:367
+msgid "WP_DEBUG is enabled."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-status.php:368
+msgid " How to disable WP_DEBUG mode."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-theme-helper.php:30
+msgid "Need Help? WebGeniusLab Help Center Here"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-theme-helper.php:35
+msgid "Please read a <a target=\"_blank\" href=\"https://themeforest.net/page/item_support_policy\">Support Policy</a> before submitting a ticket and make sure that your question related to our product issues."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-theme-helper.php:39
+msgid "If you did not find an answer to your question, feel free to contact us."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-theme-helper.php:57
+msgid "Documentation"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-theme-helper.php:64
+msgid "Before submitting a ticket, please read the documentation. Probably, your issue already described."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-theme-helper.php:71
+msgid "Visit Documentation"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-theme-helper.php:93
+msgid "Video Tutorials"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-theme-helper.php:100
+msgid "There you can watch tutorial for main issues. How to import demo content? How to create a Mega Menu? etc.."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-theme-helper.php:107
+msgid "Watch Tutorials"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-theme-helper.php:129
+msgid "Support forum"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-theme-helper.php:136
+msgid "If you did not find an answer to your question, submit a ticket with well describe your issue."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-theme-helper.php:143
+msgid "Create a ticket"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-theme-helper.php:156
+msgid "Do You have some other questions? Need Customization? Pre-purchase questions? Ask it <a  target=\"_blank\"  href=\"mailto:webgeniuslab@gmail.com\">there!</a>"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-weclome.php:30
+msgid "Welcome to"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-weclome.php:35
+msgid "Version - "
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-weclome.php:40
+msgid "%s is already installed and ready to use! Let's build something impressive."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-weclome.php:54
+msgid "Just complete the steps below and you will be able to use all functionalities of %s theme by WebGeniusLab:"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-weclome.php:60
+msgid "Step 1"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-weclome.php:62
+msgid "Activate your license."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-weclome.php:65
+msgid "Important:"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-weclome.php:67
+msgid "one license  only for one website"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-weclome.php:72
+msgid "Step 2"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-weclome.php:75
+msgid "Check <a target=\"_blank\" href=\"%s\">requirements</a> to avoid errors with your WordPress."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-weclome.php:81
+msgid "Step 3"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-weclome.php:83
+msgid "Install Required and recommended plugins."
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-weclome.php:87
+msgid "Step 4"
+msgstr ""
+
+#: medify/core/dashboard/tpl-view-weclome.php:89
+msgid "Import demo content"
+msgstr ""
+
+#: medify/core/includes/default-options.php:26
+msgctxt "Ubuntu font: on or off"
+msgid "on"
+msgstr ""
+
+#: medify/core/includes/default-options.php:32
+msgctxt "Nunito font: on or off"
+msgid "on"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:49
+msgid "Team Options"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:54
+msgid "Info Name Department"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:60
+msgid "Member Department"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:66
+msgid "Member Since"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:72
+msgid "Member Info"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:79, medify/core/includes/metabox/metabox-config.php:169, medify/woocommerce/woocommerce-init.php:257
+msgid "Name"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:87, medify/core/includes/redux/redux-config.php:1000, medify/core/includes/redux/redux-config.php:1193
+msgid "Link"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:93
+msgid "Social Icons"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:99
+msgid "Select an icon"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:104
+msgid "Info Background Image"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:117
+msgid "Portfolio Options"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:123
+msgid "Show Featured image on single"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:129
+msgid "Show Title on single"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:135
+msgid "Add Custom Link for Portfolio Grid"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:139
+msgid "Custom Url for Portfolio Grid"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:151
+msgid "Open Custom Url in New Window"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:161
+msgid "Info"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:177
+msgid "Url"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:183
+msgid "Info Description"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:187
+msgid "Info description is shown in one row with a main info"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:190, medify/core/includes/redux/redux-config.php:4206
+msgid "Categories On/Off"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:195, medify/core/includes/metabox/metabox-config.php:207, medify/core/includes/metabox/metabox-config.php:219, medify/core/includes/metabox/metabox-config.php:231, medify/core/includes/metabox/metabox-config.php:370, medify/core/includes/metabox/metabox-config.php:1284, medify/core/includes/metabox/metabox-config.php:1870, medify/core/includes/metabox/metabox-config.php:1985, medify/core/includes/metabox/metabox-config.php:2140
+msgid "On"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:196, medify/core/includes/metabox/metabox-config.php:208, medify/core/includes/metabox/metabox-config.php:220, medify/core/includes/metabox/metabox-config.php:232, medify/core/includes/metabox/metabox-config.php:371, medify/core/includes/metabox/metabox-config.php:549, medify/core/includes/metabox/metabox-config.php:719, medify/core/includes/metabox/metabox-config.php:1285, medify/core/includes/metabox/metabox-config.php:1871, medify/core/includes/metabox/metabox-config.php:1986, medify/core/includes/metabox/metabox-config.php:2141, medify/core/includes/redux/redux-config.php:3898
+msgid "Off"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:202
+msgid "Date On/Off"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:214, medify/core/includes/redux/redux-config.php:4448
+msgid "Tags On/Off"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:226
+msgid "Share Links On/Off"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:244
+msgid "Portfolio Post Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:249, medify/core/includes/metabox/metabox-config.php:466, medify/core/includes/metabox/metabox-config.php:2248
+msgid "Post Layout"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:254, medify/core/includes/metabox/metabox-config.php:471, medify/core/includes/metabox/metabox-config.php:539, medify/core/includes/metabox/metabox-config.php:718, medify/core/includes/metabox/metabox-config.php:921, medify/core/includes/metabox/metabox-config.php:1040, medify/core/includes/metabox/metabox-config.php:1689, medify/core/includes/metabox/metabox-config.php:2253
+msgid "Custom"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:260, medify/core/includes/metabox/metabox-config.php:462
+msgid "Post Layout Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:269
+msgid "Post Content Layout"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:273, medify/core/includes/metabox/metabox-config.php:481, medify/core/includes/redux/redux-config.php:3869, medify/core/includes/redux/redux-config.php:4324
+msgid "Title First"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:274, medify/core/includes/metabox/metabox-config.php:482, medify/core/includes/redux/redux-config.php:3870, medify/core/includes/redux/redux-config.php:4325
+msgid "Image First"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:275, medify/core/includes/metabox/metabox-config.php:483, medify/core/includes/redux/redux-config.php:3871, medify/core/includes/redux/redux-config.php:4326
+msgid "Overlay Image"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:276, medify/core/includes/redux/redux-config.php:4327
+msgid "Overlay Image with Info"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:287
+msgid "Alignment"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:304, medify/core/includes/metabox/metabox-config.php:496
+msgid "Spacing"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:328, medify/core/includes/redux/redux-config.php:4364
+msgid "Add Portfolio Parallax"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:339, medify/core/includes/metabox/metabox-config.php:1433
+msgid "Prallax Speed"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:360, medify/core/includes/metabox/metabox-config.php:401, medify/core/includes/redux/redux-config.php:4515
+msgid "Related Portfolio"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:366
+msgid "Portfolio Related"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:378
+msgid "Portfolio Related Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:388, medify/core/includes/redux/redux-config.php:4521
+msgid "Display items carousel for this portfolio post"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:398, medify/core/includes/metabox/metabox-config.php:734, medify/core/includes/redux/redux-config.php:4063, medify/core/includes/redux/redux-config.php:4514
+msgid "Title"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:409, medify/core/includes/metabox/metabox-config.php:745
+msgid "Categories"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:421, medify/core/includes/metabox/metabox-config.php:757, medify/core/includes/redux/redux-config.php:3398, medify/core/includes/redux/redux-config.php:4079
+msgid "Columns"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:425, medify/core/includes/metabox/metabox-config.php:762
+msgid "2"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:426, medify/core/includes/metabox/metabox-config.php:763
+msgid "3"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:427, medify/core/includes/metabox/metabox-config.php:764
+msgid "4"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:438, medify/core/includes/metabox/metabox-config.php:775, medify/core/includes/redux/redux-config.php:4092, medify/core/includes/redux/redux-config.php:4540
+msgid "Number of Related Items"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:457, medify/core/includes/metabox/metabox-config.php:2243
+msgid "Post Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:477
+msgid "Post Layout Type"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:519
+msgid "Apply Animation"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:530, medify/core/includes/metabox/metabox-config.php:545
+msgid "Featured Image Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:534, medify/core/includes/redux/redux-config.php:3895
+msgid "Featured Image"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:550, medify/core/includes/redux/redux-config.php:3899
+msgid "Replace"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:563, medify/core/includes/redux/redux-config.php:3906
+msgid "Featured Image Replace"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:581
+msgid "Post Format Layout"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:587
+msgid "Standard Post( Enabled only Featured Image for this post format)"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:598
+msgid "Gallery Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:602
+msgid "Add Images"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:609
+msgid "Video Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:613
+msgid "Video Style"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:617
+msgid "Background Video"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:618
+msgid "Popup"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:624
+msgid "Start Video"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:635
+msgid "End Video"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:645, medify/core/includes/metabox/metabox-config.php:681
+msgid "oEmbed URL"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:651
+msgid "Quote Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:655
+msgid "Quote Text"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:660
+msgid "Author Name"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:665
+msgid "Author Position"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:670
+msgid "Author Avatar"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:677
+msgid "Audio Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:687
+msgid "Link Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:696
+msgid "Text"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:707
+msgid "Related Blog Post"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:713
+msgid "Related Options"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:725
+msgid "Related Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:737, medify/core/includes/redux/redux-config.php:4057, medify/core/includes/redux/redux-config.php:4064, medify/core/includes/redux/redux-config.php:4501
+msgid "Related Posts"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:761
+msgid "1"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:791
+msgid "Display items carousel for this blog post"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:810
+msgid "Page Layout"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:815, medify/core/includes/redux/redux-config.php:4856
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:827
+msgid "Sidebar Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:837, medify/core/includes/redux/redux-config.php:4876
+msgid "Page Sidebar"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:851, medify/core/includes/redux/redux-config.php:4883
+msgid "Page Sidebar Width"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:869, medify/core/includes/redux/redux-config.php:4894, medify/core/includes/redux/redux-config.php:5482
+msgid "Sticky Sidebar On?"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:879, medify/core/includes/redux/redux-config.php:4901, medify/core/includes/redux/redux-config.php:5489
+msgid "Sidebar Side Gap"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:911, medify/core/includes/metabox/metabox-config.php:916
+msgid "Page Colors"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:928
+msgid "Colors Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:937, medify/core/includes/redux/redux-config.php:5155
+msgid "General Theme Color"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:950, medify/core/includes/redux/redux-config.php:5163
+msgid "Secondary Color"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:963, medify/core/includes/redux/redux-config.php:5171
+msgid "Third Color"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:976, medify/core/includes/redux/redux-config.php:5179
+msgid "Body Background Color"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:989
+msgid "Scroll Up Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:998, medify/core/includes/redux/redux-config.php:192
+msgid "Button Background Color"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1011, medify/core/includes/redux/redux-config.php:184
+msgid "Button Arrow Color"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1030, medify/core/includes/metabox/metabox-config.php:1035, medify/core/includes/redux/redux-config.php:238, medify/core/includes/redux/redux-config.php:395, medify/core/includes/redux/redux-config.php:443, medify/core/includes/redux/redux-config.php:2524, medify/core/includes/redux/redux-config.php:2559, medify/core/includes/redux/redux-config.php:2841, medify/core/includes/redux/redux-config.php:2871
+msgid "Logo"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1047
+msgid "Logo Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1056, medify/core/includes/redux/redux-config.php:244
+msgid "Header Logo"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1068, medify/core/includes/redux/redux-config.php:249
+msgid "Enable Logo Height"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1077, medify/core/includes/redux/redux-config.php:255
+msgid "Set Logo Height"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1091, medify/core/includes/redux/redux-config.php:265
+msgid "Sticky Logo"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1103, medify/core/includes/redux/redux-config.php:270
+msgid "Enable Sticky Logo Height"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1112, medify/core/includes/redux/redux-config.php:278
+msgid "Set Sticky Logo Height"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1125, medify/core/includes/redux/redux-config.php:289
+msgid "Mobile Logo"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1137, medify/core/includes/metabox/metabox-config.php:1171, medify/core/includes/redux/redux-config.php:294
+msgid "Enable Mobile Logo Height"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1146, medify/core/includes/metabox/metabox-config.php:1180, medify/core/includes/redux/redux-config.php:302
+msgid "Set Mobile Logo Height"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1159, medify/core/includes/redux/redux-config.php:313
+msgid "Mobile Menu Logo"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1199, medify/core/includes/redux/redux-config.php:234
+msgid "Header"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1204, medify/core/includes/redux/redux-config.php:2285
+msgid "Header Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1208
+msgid "default"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1209
+msgid "custom"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1210
+msgid "hide"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1216, medify/core/includes/redux/redux-config.php:336, medify/core/includes/redux/redux-config.php:357
+msgid "Header Builder"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1231
+msgid "Menu "
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1244, medify/core/includes/redux/redux-config.php:2389
+msgid "Sticky Header"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1256
+msgid "Mobile Menu "
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1274, medify/core/includes/metabox/metabox-config.php:1280, medify/core/includes/metabox/metabox-config.php:1456, medify/core/includes/redux/redux-config.php:3032
+msgid "Page Title"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1292, medify/core/includes/redux/redux-config.php:3050
+msgid "Page Title Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1302, medify/core/includes/redux/redux-config.php:3057, medify/core/includes/redux/redux-config.php:4267, medify/core/includes/redux/redux-config.php:4661, medify/core/includes/redux/redux-config.php:5611
+msgid "Use Background?"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1313, medify/core/includes/metabox/metabox-config.php:2082, medify/core/includes/metabox/metabox-config.php:2289, medify/core/includes/redux/redux-config.php:3063, medify/core/includes/redux/redux-config.php:4273, medify/core/includes/redux/redux-config.php:4672, medify/core/includes/redux/redux-config.php:4789, medify/core/includes/redux/redux-config.php:5617, medify/core/includes/redux/redux-config.php:5781
+msgid "Background"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1329, medify/core/includes/metabox/metabox-config.php:1580, medify/core/includes/redux/redux-config.php:3083, medify/core/includes/redux/redux-config.php:3253
+msgid "Height"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1343, medify/core/includes/redux/redux-config.php:3119, medify/core/includes/redux/redux-config.php:4239, medify/core/includes/redux/redux-config.php:5589
+msgid "Title Alignment"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1347, medify/core/includes/metabox/metabox-config.php:1482
+msgid "left"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1348, medify/core/includes/metabox/metabox-config.php:1483
+msgid "center"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1349, medify/core/includes/metabox/metabox-config.php:1484
+msgid "right"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1360, medify/core/includes/redux/redux-config.php:3092, medify/core/includes/redux/redux-config.php:3270, medify/core/includes/redux/redux-config.php:4290, medify/core/includes/redux/redux-config.php:4685, medify/core/includes/redux/redux-config.php:5634
+msgid "Paddings Top/Bottom"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1381, medify/core/includes/redux/redux-config.php:3107, medify/core/includes/redux/redux-config.php:4305, medify/core/includes/redux/redux-config.php:4701, medify/core/includes/redux/redux-config.php:5649
+msgid "Margin Bottom"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1400
+msgid "Border Top Switch"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1409, medify/core/includes/redux/redux-config.php:5667
+msgid "Border Top Color"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1424, medify/core/includes/redux/redux-config.php:3155
+msgid "Parallax Switch"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1447, medify/core/includes/redux/redux-config.php:4654
+msgid "Custom Page Title"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1468, medify/core/includes/metabox/metabox-config.php:1639
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1478, medify/core/includes/redux/redux-config.php:3143
+msgid "Breadcrumbs Alignment"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1496
+msgid "Page Title Typography"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1505, medify/core/includes/metabox/metabox-config.php:1616, medify/core/includes/redux/redux-config.php:3186, medify/core/includes/redux/redux-config.php:3280
+msgid "Page Title Font"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1526, medify/core/includes/metabox/metabox-config.php:1650, medify/core/includes/redux/redux-config.php:3206, medify/core/includes/redux/redux-config.php:3308
+msgid "Page Title Breadcrumbs Font"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1547
+msgid "Responsive Layout"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1557, medify/core/includes/redux/redux-config.php:3234
+msgid "Responsive Layout On/Off"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1566, medify/core/includes/redux/redux-config.php:3240
+msgid "Screen breakpoint"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1594
+msgid "Padding Top/Bottom"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1696
+msgid "Side Panel Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1705, medify/core/includes/metabox/metabox-config.php:2025, medify/core/includes/redux/redux-config.php:3375, medify/core/includes/redux/redux-config.php:4728
+msgid "Content Type"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1709
+msgid "Widgets"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1710, medify/core/includes/metabox/metabox-config.php:2030
+msgid "Page"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1739, medify/core/includes/metabox/metabox-config.php:2059, medify/core/includes/metabox/metabox-config.php:2197, medify/core/includes/redux/redux-config.php:3469, medify/core/includes/redux/redux-config.php:3626, medify/core/includes/redux/redux-config.php:4755
+msgid "Paddings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1763, medify/core/includes/redux/redux-config.php:4767
+msgid "Title Color"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1777, medify/core/includes/metabox/metabox-config.php:2169, medify/core/includes/redux/redux-config.php:1037, medify/core/includes/redux/redux-config.php:1229, medify/core/includes/redux/redux-config.php:3606, medify/core/includes/redux/redux-config.php:4778
+msgid "Text Color"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1791, medify/core/includes/metabox/metabox-config.php:2183, medify/core/includes/redux/redux-config.php:1061, medify/core/includes/redux/redux-config.php:1253, medify/core/includes/redux/redux-config.php:3525, medify/core/includes/redux/redux-config.php:3614
+msgid "Background Color"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1806, medify/core/includes/redux/redux-config.php:4800
+msgid "Text Align"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1823, medify/core/includes/redux/redux-config.php:4813
+msgid "Width"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1836, medify/core/includes/redux/redux-config.php:4823
+msgid "Position"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1860, medify/core/includes/metabox/metabox-config.php:1865, medify/core/includes/redux/redux-config.php:4927
+msgid "Social Shares"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1878, medify/core/includes/redux/redux-config.php:4940
+msgid "Choose your share style."
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1882, medify/core/includes/redux/redux-config.php:159, medify/core/includes/redux/redux-config.php:4942
+msgid "Standard"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1883, medify/core/includes/redux/redux-config.php:4943
+msgid "Hovered"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1895, medify/core/includes/redux/redux-config.php:4951
+msgid "Fixed Position On/Off"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1904
+msgid "Offset Top(in percentage)"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1915, medify/core/includes/redux/redux-config.php:4965
+msgid "Measurement units defined as \"percents\" while position fixed is enabled, and as \"pixels\" while position is off."
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1919, medify/core/includes/redux/redux-config.php:4974
+msgid "Facebook Share On/Off"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1929, medify/core/includes/redux/redux-config.php:4981
+msgid "Twitter Share On/Off"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1939, medify/core/includes/redux/redux-config.php:4988
+msgid "Linkedin Share On/Off"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1949, medify/core/includes/redux/redux-config.php:4995
+msgid "Pinterest Share On/Off"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1959, medify/core/includes/redux/redux-config.php:5002
+msgid "Tumblr Share On/Off"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1975, medify/core/includes/metabox/metabox-config.php:1980, medify/core/includes/redux/redux-config.php:3332
+msgid "Footer"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:1992, medify/core/includes/redux/redux-config.php:3350
+msgid "Footer Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:2002, medify/core/includes/redux/redux-config.php:3357
+msgid "Add Wave"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:2011, medify/core/includes/redux/redux-config.php:3366
+msgid "Set Wave Height"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:2099, medify/core/includes/redux/redux-config.php:3546
+msgid "Add Border Top"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:2108, medify/core/includes/redux/redux-config.php:1085, medify/core/includes/redux/redux-config.php:1277
+msgid "Border Color"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:2130, medify/core/includes/metabox/metabox-config.php:2135, medify/core/includes/redux/redux-config.php:3568
+msgid "Copyright"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:2147, medify/core/includes/redux/redux-config.php:3586
+msgid "Copyright Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:2156, medify/core/includes/redux/redux-config.php:3592
+msgid "Editor"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:2225
+msgid "Catalog Options"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:2231
+msgid "Product Carousel"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:2259
+msgid "Product Layout Settings"
+msgstr ""
+
+#: medify/core/includes/metabox/metabox-config.php:2269
+msgid "Single Image Layout"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:104
+msgid "General"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:111
+msgid "Use minify css/js files"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:112
+msgid "Recommended for site load speed."
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:117
+msgid "Preloader Settings"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:123
+msgid "Preloader On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:129
+msgid "Preloader Background"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:130
+msgid "Set Preloader Background"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:138
+msgid "Preloader Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:151
+msgid "Search Settings"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:157
+msgid "Choose your search style."
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:160
+msgid "Alternative"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:172
+msgid "Scroll Up Button Settings"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:178
+msgid "Button On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:206, medify/core/includes/redux/redux-config.php:213, medify/core/includes/redux/redux-config.php:221
+msgid "Custom JS"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:214
+msgid "Paste your JS code here."
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:223
+msgid "Code to be added inside HEAD tag"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:318
+msgid "Enable Mobile Menu Logo Height"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:323
+msgid "Set Mobile Menu Logo Height"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:342
+msgid "Header default preset"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:344
+msgid "Please choose preset to use this in all Pages. You also can choose for every page your custom header present in page's option select(page metabox)."
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:351
+msgid "Custom Preset"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:362, medify/core/includes/redux/redux-config.php:410, medify/core/includes/redux/redux-config.php:2498, medify/core/includes/redux/redux-config.php:2533, medify/core/includes/redux/redux-config.php:2819, medify/core/includes/redux/redux-config.php:2849
+msgid "HTML 1"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:363, medify/core/includes/redux/redux-config.php:411, medify/core/includes/redux/redux-config.php:2499, medify/core/includes/redux/redux-config.php:2534, medify/core/includes/redux/redux-config.php:2820, medify/core/includes/redux/redux-config.php:2850
+msgid "HTML 2"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:364, medify/core/includes/redux/redux-config.php:412, medify/core/includes/redux/redux-config.php:2500, medify/core/includes/redux/redux-config.php:2535, medify/core/includes/redux/redux-config.php:2821, medify/core/includes/redux/redux-config.php:2851
+msgid "HTML 3"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:365, medify/core/includes/redux/redux-config.php:413, medify/core/includes/redux/redux-config.php:2501, medify/core/includes/redux/redux-config.php:2536, medify/core/includes/redux/redux-config.php:2822, medify/core/includes/redux/redux-config.php:2852
+msgid "HTML 4"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:366, medify/core/includes/redux/redux-config.php:414, medify/core/includes/redux/redux-config.php:2502, medify/core/includes/redux/redux-config.php:2537, medify/core/includes/redux/redux-config.php:2823, medify/core/includes/redux/redux-config.php:2853
+msgid "HTML 5"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:367, medify/core/includes/redux/redux-config.php:415, medify/core/includes/redux/redux-config.php:2503, medify/core/includes/redux/redux-config.php:2538, medify/core/includes/redux/redux-config.php:2824, medify/core/includes/redux/redux-config.php:2854
+msgid "HTML 6"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:368, medify/core/includes/redux/redux-config.php:416
+msgid "HTML 7"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:369, medify/core/includes/redux/redux-config.php:417
+msgid "HTML 8"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:370, medify/core/includes/redux/redux-config.php:418, medify/core/includes/redux/redux-config.php:2505, medify/core/includes/redux/redux-config.php:2540, medify/core/includes/redux/redux-config.php:2825, medify/core/includes/redux/redux-config.php:2855
+msgid "WPML"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:371, medify/core/includes/redux/redux-config.php:372, medify/core/includes/redux/redux-config.php:373, medify/core/includes/redux/redux-config.php:374, medify/core/includes/redux/redux-config.php:375, medify/core/includes/redux/redux-config.php:376, medify/core/includes/redux/redux-config.php:419, medify/core/includes/redux/redux-config.php:420, medify/core/includes/redux/redux-config.php:421, medify/core/includes/redux/redux-config.php:422, medify/core/includes/redux/redux-config.php:423, medify/core/includes/redux/redux-config.php:424, medify/core/includes/redux/redux-config.php:2506, medify/core/includes/redux/redux-config.php:2507, medify/core/includes/redux/redux-config.php:2508, medify/core/includes/redux/redux-config.php:2509, medify/core/includes/redux/redux-config.php:2510, medify/core/includes/redux/redux-config.php:2511, medify/core/includes/redux/redux-config.php:2541, medify/core/includes/redux/redux-config.php:2542, medify/core/includes/redux/redux-config.php:2543, medify/core/includes/redux/redux-config.php:2544, medify/core/includes/redux/redux-config.php:2545, medify/core/includes/redux/redux-config.php:2546
+msgid "|"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:377, medify/core/includes/redux/redux-config.php:425, medify/core/includes/redux/redux-config.php:2514, medify/core/includes/redux/redux-config.php:2549, medify/core/includes/redux/redux-config.php:2828, medify/core/includes/redux/redux-config.php:2858
+msgid "Spacer 3"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:378, medify/core/includes/redux/redux-config.php:426, medify/core/includes/redux/redux-config.php:2515, medify/core/includes/redux/redux-config.php:2550, medify/core/includes/redux/redux-config.php:2829, medify/core/includes/redux/redux-config.php:2859
+msgid "Spacer 4"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:379, medify/core/includes/redux/redux-config.php:427, medify/core/includes/redux/redux-config.php:2516, medify/core/includes/redux/redux-config.php:2551, medify/core/includes/redux/redux-config.php:2830, medify/core/includes/redux/redux-config.php:2860
+msgid "Spacer 5"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:380, medify/core/includes/redux/redux-config.php:428, medify/core/includes/redux/redux-config.php:2517, medify/core/includes/redux/redux-config.php:2552, medify/core/includes/redux/redux-config.php:2831, medify/core/includes/redux/redux-config.php:2861
+msgid "Spacer 6"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:381, medify/core/includes/redux/redux-config.php:429
+msgid "Spacer 7"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:382, medify/core/includes/redux/redux-config.php:430
+msgid "Spacer 8"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:383, medify/core/includes/redux/redux-config.php:384, medify/core/includes/redux/redux-config.php:431, medify/core/includes/redux/redux-config.php:432
+msgid "Button"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:385, medify/core/includes/redux/redux-config.php:433, medify/core/includes/redux/redux-config.php:2519, medify/core/includes/redux/redux-config.php:2554, medify/core/includes/redux/redux-config.php:2833, medify/core/includes/redux/redux-config.php:2863, medify/core/includes/redux/redux-config.php:5829
+msgid "Cart"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:386, medify/core/includes/redux/redux-config.php:434, medify/core/includes/redux/redux-config.php:2520, medify/core/includes/redux/redux-config.php:2555, medify/core/includes/redux/redux-config.php:2834, medify/core/includes/redux/redux-config.php:2864, medify/templates/header/section-header.php:1324
+msgid "Login"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:387, medify/core/includes/redux/redux-config.php:435, medify/core/includes/redux/redux-config.php:2521, medify/core/includes/redux/redux-config.php:2556, medify/core/includes/redux/redux-config.php:2835, medify/core/includes/redux/redux-config.php:2865
+msgid "Wishlist"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:394, medify/core/includes/redux/redux-config.php:442, medify/core/includes/redux/redux-config.php:2513, medify/core/includes/redux/redux-config.php:2548, medify/core/includes/redux/redux-config.php:2827, medify/core/includes/redux/redux-config.php:2857
+msgid "Spacer 2"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:398, medify/core/includes/redux/redux-config.php:446, medify/core/includes/redux/redux-config.php:2528, medify/core/includes/redux/redux-config.php:2563, medify/core/includes/redux/redux-config.php:2838, medify/core/includes/redux/redux-config.php:2868, medify/core/includes/redux/redux-config.php:5313
+msgid "Menu"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:401, medify/core/includes/redux/redux-config.php:449, medify/core/includes/redux/redux-config.php:2504, medify/core/includes/redux/redux-config.php:2539, medify/core/includes/redux/redux-config.php:2844, medify/core/includes/redux/redux-config.php:2874, medify/searchform.php:15, medify/templates/header/section-page_title.php:182
+msgid "Search"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:402, medify/core/includes/redux/redux-config.php:450, medify/core/includes/redux/redux-config.php:2512, medify/core/includes/redux/redux-config.php:2547, medify/core/includes/redux/redux-config.php:2826, medify/core/includes/redux/redux-config.php:2856
+msgid "Spacer 1"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:460
+msgid "Header Spacer 1 Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:470
+msgid "Header Spacer 2 Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:480
+msgid "Header Spacer 3 Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:488
+msgid "Header Spacer 4 Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:496
+msgid "Header Spacer 5 Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:504
+msgid "Header Spacer 6 Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:512
+msgid "Header Spacer 7 Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:520
+msgid "Header Spacer 8 Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:528, medify/core/includes/redux/redux-config.php:591, medify/core/includes/redux/redux-config.php:602, medify/core/includes/redux/redux-config.php:665, medify/core/includes/redux/redux-config.php:678, medify/core/includes/redux/redux-config.php:745, medify/core/includes/redux/redux-config.php:758, medify/core/includes/redux/redux-config.php:825, medify/core/includes/redux/redux-config.php:838, medify/core/includes/redux/redux-config.php:905, medify/core/includes/redux/redux-config.php:918, medify/core/includes/redux/redux-config.php:983
+msgid "Delimiter Height"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:536, medify/core/includes/redux/redux-config.php:610, medify/core/includes/redux/redux-config.php:688, medify/core/includes/redux/redux-config.php:768, medify/core/includes/redux/redux-config.php:848, medify/core/includes/redux/redux-config.php:928
+msgid "Delimiter Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:544, medify/core/includes/redux/redux-config.php:577, medify/core/includes/redux/redux-config.php:618, medify/core/includes/redux/redux-config.php:651, medify/core/includes/redux/redux-config.php:696, medify/core/includes/redux/redux-config.php:729, medify/core/includes/redux/redux-config.php:776, medify/core/includes/redux/redux-config.php:809, medify/core/includes/redux/redux-config.php:856, medify/core/includes/redux/redux-config.php:889, medify/core/includes/redux/redux-config.php:936, medify/core/includes/redux/redux-config.php:969
+msgid "Delimiter Background"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:562, medify/core/includes/redux/redux-config.php:636, medify/core/includes/redux/redux-config.php:714, medify/core/includes/redux/redux-config.php:794, medify/core/includes/redux/redux-config.php:874, medify/core/includes/redux/redux-config.php:954
+msgid "Delimiter Spacing"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:571, medify/core/includes/redux/redux-config.php:645, medify/core/includes/redux/redux-config.php:723, medify/core/includes/redux/redux-config.php:803, medify/core/includes/redux/redux-config.php:883, medify/core/includes/redux/redux-config.php:963
+msgid "Customize Sticky Delimiter"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:994, medify/core/includes/redux/redux-config.php:1187
+msgid "Button Text"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:995, medify/core/includes/redux/redux-config.php:1188
+msgid "Get Ticket"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1011, medify/core/includes/redux/redux-config.php:1204
+msgid "Button Size"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1013, medify/core/includes/redux/redux-config.php:1206
+msgid "Small"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1014, medify/core/includes/redux/redux-config.php:1207
+msgid "Medium"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1015, medify/core/includes/redux/redux-config.php:1208
+msgid "Large"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1016, medify/core/includes/redux/redux-config.php:1209
+msgid "Extra Large"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1024, medify/core/includes/redux/redux-config.php:1216
+msgid "Button Border Radius"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1026, medify/core/includes/redux/redux-config.php:1218
+msgid "Value in pixels."
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1031, medify/core/includes/redux/redux-config.php:1223
+msgid "Customize Button"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1049, medify/core/includes/redux/redux-config.php:1241
+msgid "Hover Text Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1073, medify/core/includes/redux/redux-config.php:1265
+msgid "Hover Background Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1097, medify/core/includes/redux/redux-config.php:1289
+msgid "Hover Border Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1109, medify/core/includes/redux/redux-config.php:1301
+msgid "Customize Sticky Button"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1115, medify/core/includes/redux/redux-config.php:1307
+msgid "Sticky Text Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1127, medify/core/includes/redux/redux-config.php:1319
+msgid "Sticky Hover Text Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1139, medify/core/includes/redux/redux-config.php:1331
+msgid "Sticky Background Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1151, medify/core/includes/redux/redux-config.php:1343
+msgid "Sticky Hover Background Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1163, medify/core/includes/redux/redux-config.php:1355
+msgid "Sticky Border Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1175, medify/core/includes/redux/redux-config.php:1367
+msgid "Sticky Hover Border Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1380, medify/core/includes/redux/redux-config.php:2578, medify/core/includes/redux/redux-config.php:2882
+msgid "HTML Element 1 Editor"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1387, medify/core/includes/redux/redux-config.php:2586, medify/core/includes/redux/redux-config.php:2892
+msgid "HTML Element 2 Editor"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1394, medify/core/includes/redux/redux-config.php:2594, medify/core/includes/redux/redux-config.php:2902
+msgid "HTML Element 3 Editor"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1401, medify/core/includes/redux/redux-config.php:2602, medify/core/includes/redux/redux-config.php:2912
+msgid "HTML Element 4 Editor"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1407, medify/core/includes/redux/redux-config.php:2610, medify/core/includes/redux/redux-config.php:2922
+msgid "HTML Element 5 Editor"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1414, medify/core/includes/redux/redux-config.php:2618, medify/core/includes/redux/redux-config.php:2932
+msgid "HTML Element 6 Editor"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1421
+msgid "HTML Element 7 Editor"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1428
+msgid "HTML Element 8 Editor"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1435, medify/core/includes/redux/redux-config.php:1463
+msgid "Icon Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1446, medify/core/includes/redux/redux-config.php:1477
+msgid "Background Icon"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1457
+msgid "Customize Sticky Icon"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1491
+msgid "Header Top Options"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1497
+msgid "Full Width Top Header"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1498
+msgid "Set header content in full width top layout"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1506
+msgid "Header Top Height"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1514
+msgid "Header Top Background Image"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1519
+msgid "Header Top Background"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1530
+msgid "Header Top Text Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1531
+msgid "Set Top header text color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1542
+msgid "Set Header Top Bottom Border"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1550
+msgid "Header Top Border Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1563
+msgid "Header Top Border Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1582
+msgid "Header Middle Options"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1588
+msgid "Full Width Middle Header"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1589
+msgid "Set header content in full width middle layout"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1597
+msgid "Header Middle Height"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1607
+msgid "Header Middle Background Image"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1612
+msgid "Header Middle Background"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1623
+msgid "Header Middle Text Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1624
+msgid "Set Middle header text color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1635
+msgid "Set Header Middle Bottom Border"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1643
+msgid "Header Middle Border Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1656
+msgid "Header Middle Border Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1676
+msgid "Header Bottom Options"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1682
+msgid "Full Width Bottom Header"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1683
+msgid "Set header content in full width bottom layout"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1691
+msgid "Header Bottom Height"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1701
+msgid "Header Bottom Background Image"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1706
+msgid "Header Bottom Background"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1717
+msgid "Header Bottom Text Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1718
+msgid "Set Bottom header text color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1729
+msgid "Set Header Bottom Border"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1737
+msgid "Header Bottom Border Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1750
+msgid "Header Bottom Border Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1769
+msgid "Top Left Column Options"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1775, medify/core/includes/redux/redux-config.php:1818, medify/core/includes/redux/redux-config.php:1861, medify/core/includes/redux/redux-config.php:1904, medify/core/includes/redux/redux-config.php:1947, medify/core/includes/redux/redux-config.php:1990, medify/core/includes/redux/redux-config.php:2033, medify/core/includes/redux/redux-config.php:2076, medify/core/includes/redux/redux-config.php:2119, medify/core/includes/redux/redux-config.php:2162, medify/core/includes/redux/redux-config.php:2205, medify/core/includes/redux/redux-config.php:2248
+msgid "Horizontal Align"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1786, medify/core/includes/redux/redux-config.php:1829, medify/core/includes/redux/redux-config.php:1872, medify/core/includes/redux/redux-config.php:1915, medify/core/includes/redux/redux-config.php:1958, medify/core/includes/redux/redux-config.php:2001, medify/core/includes/redux/redux-config.php:2044, medify/core/includes/redux/redux-config.php:2087, medify/core/includes/redux/redux-config.php:2130, medify/core/includes/redux/redux-config.php:2173, medify/core/includes/redux/redux-config.php:2216, medify/core/includes/redux/redux-config.php:2259
+msgid "Vertical Align"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1789, medify/core/includes/redux/redux-config.php:1832, medify/core/includes/redux/redux-config.php:1875, medify/core/includes/redux/redux-config.php:1918, medify/core/includes/redux/redux-config.php:1961, medify/core/includes/redux/redux-config.php:2004, medify/core/includes/redux/redux-config.php:2047, medify/core/includes/redux/redux-config.php:2090, medify/core/includes/redux/redux-config.php:2133, medify/core/includes/redux/redux-config.php:2176, medify/core/includes/redux/redux-config.php:2219, medify/core/includes/redux/redux-config.php:2262
+msgid "Middle"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1797, medify/core/includes/redux/redux-config.php:1840, medify/core/includes/redux/redux-config.php:1883, medify/core/includes/redux/redux-config.php:1926, medify/core/includes/redux/redux-config.php:1969, medify/core/includes/redux/redux-config.php:2012, medify/core/includes/redux/redux-config.php:2055, medify/core/includes/redux/redux-config.php:2098, medify/core/includes/redux/redux-config.php:2141, medify/core/includes/redux/redux-config.php:2184, medify/core/includes/redux/redux-config.php:2227, medify/core/includes/redux/redux-config.php:2270
+msgid "Display"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1799, medify/core/includes/redux/redux-config.php:1842, medify/core/includes/redux/redux-config.php:1885, medify/core/includes/redux/redux-config.php:1928, medify/core/includes/redux/redux-config.php:1971, medify/core/includes/redux/redux-config.php:2014, medify/core/includes/redux/redux-config.php:2057, medify/core/includes/redux/redux-config.php:2100, medify/core/includes/redux/redux-config.php:2143, medify/core/includes/redux/redux-config.php:2186, medify/core/includes/redux/redux-config.php:2229, medify/core/includes/redux/redux-config.php:2272
+msgid "Normal"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1800, medify/core/includes/redux/redux-config.php:1843, medify/core/includes/redux/redux-config.php:1886, medify/core/includes/redux/redux-config.php:1929, medify/core/includes/redux/redux-config.php:1972, medify/core/includes/redux/redux-config.php:2015, medify/core/includes/redux/redux-config.php:2058, medify/core/includes/redux/redux-config.php:2101, medify/core/includes/redux/redux-config.php:2144, medify/core/includes/redux/redux-config.php:2187, medify/core/includes/redux/redux-config.php:2230, medify/core/includes/redux/redux-config.php:2273
+msgid "Grow"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1812, medify/core/includes/redux/redux-config.php:1855
+msgid "Top Center Column Options"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1898
+msgid "Top Right Column Options"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1941
+msgid "Middle Left Column Options"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:1984, medify/core/includes/redux/redux-config.php:2027, medify/core/includes/redux/redux-config.php:2156
+msgid "Middle Center Column Options"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2070
+msgid "Middle Right Column Options"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2113
+msgid "Bottom Left Column Options"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2199
+msgid "Bottom Center Column Options"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2242
+msgid "Bottom Right Column Options"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2291
+msgid "Header Bottom Shadow"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2297
+msgid "Over content"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2298
+msgid "Set Header preset to display over content."
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2304
+msgid "Enable Lavalamp Marker"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2310
+msgid "Sub Menu Background"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2311, medify/core/includes/redux/redux-config.php:2733
+msgid "Set sub menu background color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2322
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2323, medify/core/includes/redux/redux-config.php:2759
+msgid "Set sub menu header text color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2330
+msgid "Sub Menu Bottom Border"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2338
+msgid "Sub Menu Border Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2351
+msgid "Sub Menu Border Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2365
+msgid "Mobile Header resolution breakpoint"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2382
+msgid "Header Sticky"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2395
+msgid "Sticky Settings"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2402
+msgid "Sticky Header Text Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2403
+msgid "Set sticky header text color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2410
+msgid "Sticky Header Background"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2411
+msgid "Set sticky header background color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2424
+msgid "Sticky Header Height"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2434
+msgid "Choose your sticky style."
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2436
+msgid "Show when scroll"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2437
+msgid "Show when scroll up"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2444
+msgid "Bottom Border On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2452
+msgid "Bottom Border Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2465
+msgid "Bottom Border Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2479
+msgid "Bottom Shadow On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2485
+msgid "Custom Sticky Header "
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2490
+msgid "Sticky Header Order"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2493
+msgid "Organize the layout of the sticky header"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2570
+msgid "Full Width Sticky Header"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2627, medify/core/includes/redux/redux-config.php:2943
+msgid "Spacer 1 Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2638, medify/core/includes/redux/redux-config.php:2958
+msgid "Spacer 2 Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2649, medify/core/includes/redux/redux-config.php:2973
+msgid "Spacer 3 Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2660, medify/core/includes/redux/redux-config.php:2988
+msgid "Spacer 4 Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2671, medify/core/includes/redux/redux-config.php:3003
+msgid "Spacer 5 Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2682, medify/core/includes/redux/redux-config.php:3018
+msgid "Spacer 6 Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2697
+msgid "Header Mobile"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2704
+msgid "Custom Mobile Header "
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2710
+msgid "Mobile Header Background"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2711
+msgid "Set mobile header background color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2723
+msgid "Mobile Header Text Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2724
+msgid "Set mobile header text color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2732
+msgid "Mobile Sub Menu Background"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2745
+msgid "Mobile Sub Menu Overlay"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2746
+msgid "Set sub menu overlay color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2758
+msgid "Mobile Sub Menu Text Color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2769
+msgid "Mobile Height"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2782
+msgid "Mobile Over Content"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2788
+msgid "Custom Mobile Menu"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2794
+msgid "Mobile Menu"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2801
+msgid "Mobile Sub Menu Position"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2811
+msgid "Mobile Header Order"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:2814
+msgid "Organize the layout of the mobile header"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3037, medify/core/includes/redux/redux-config.php:3337, medify/core/includes/redux/redux-config.php:3573
+msgid "Settings"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3044
+msgid "Page Title Switch"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3130, medify/core/includes/redux/redux-config.php:3301
+msgid "Breadcrumbs On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3136, medify/core/includes/redux/redux-config.php:4261
+msgid "Breadcrumbs Block On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3161, medify/core/includes/redux/redux-config.php:4374
+msgid "Parallax Speed"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3179, medify/core/includes/redux/redux-config.php:5189
+msgid "Typography"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3227
+msgid "Responsive"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3344
+msgid "Footer On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3385, medify/core/includes/redux/redux-config.php:4738
+msgid "Page Select"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3411, medify/core/includes/redux/redux-config.php:3440
+msgid "Columns Layout"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3480
+msgid "Full Width On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3493
+msgid "Footer Styling"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3513
+msgid "Content Align"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3532
+msgid "Headings color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3539
+msgid "Content color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3553
+msgid "Border color"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3580
+msgid "Copyright On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3644, medify/core/includes/redux/redux-config.php:3846
+msgid "Blog"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3650, medify/core/includes/redux/redux-config.php:4116, medify/templates/header/section-page_title.php:189
+msgid "Archive"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3660, medify/core/includes/redux/redux-config.php:4126
+msgid "Archive Page Title Background Image"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3672
+msgid "Blog Archive Sidebar Layout"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3692
+msgid "Blog Archive Sidebar"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3699
+msgid "Blog Archive Sidebar Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3710
+msgid "Blog Archive Sticky Sidebar On?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3717
+msgid "Blog Archive Sidebar Side Gap"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3736, medify/core/includes/redux/redux-config.php:4176
+msgid "Columns in Archive"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3748, medify/core/includes/redux/redux-config.php:3984
+msgid "Likes On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3754, medify/core/includes/redux/redux-config.php:3996, medify/core/includes/redux/redux-config.php:4454, medify/core/includes/redux/redux-config.php:5793
+msgid "Share On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3760
+msgid "Hide Media?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3766
+msgid "Hide Title?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3772
+msgid "Hide Content?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3778
+msgid "Cut Off Text in Blog Listing"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3784
+msgid "Number of character to show after trim."
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3791
+msgid "Hide Read More Button?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3797, medify/core/includes/redux/redux-config.php:4008, medify/core/includes/redux/redux-config.php:4466
+msgid "Hide all post-meta?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3803, medify/core/includes/redux/redux-config.php:4014
+msgid "Hide post-meta author?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3810, medify/core/includes/redux/redux-config.php:4021
+msgid "Hide post-meta comments?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3817, medify/core/includes/redux/redux-config.php:4028
+msgid "Hide post-meta categories?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3824, medify/core/includes/redux/redux-config.php:4035
+msgid "Hide post-meta date?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3832, medify/core/includes/redux/redux-config.php:4213, medify/core/includes/redux/redux-config.php:4578, medify/core/includes/redux/redux-config.php:5563
+msgid "Single"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3839
+msgid "Blog Post Title On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3845, medify/core/includes/redux/redux-config.php:4591
+msgid "Single Page Title Text"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3855, medify/core/includes/redux/redux-config.php:4565
+msgid "Single Page Title Background Image"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3867
+msgid "Blog Single Type"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3885
+msgid "Page Title Padding"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3912
+msgid "Apply Animation?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3919
+msgid "Blog Single Sidebar Layout"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3939
+msgid "Blog Single Sidebar"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3947
+msgid "Blog Single Sidebar Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3958
+msgid "Blog Single Sticky Sidebar On?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3965
+msgid "Blog Single Sidebar Side Gap"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:3990
+msgid "Views On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4002
+msgid "Author Info On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4042
+msgid "Hide tags?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4050, medify/core/includes/redux/redux-config.php:5800
+msgid "Related"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4071
+msgid "Select Categories"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4100
+msgid "Display items in the carousel"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4110, medify/templates/breadcrumbs.php:169, medify/templates/breadcrumbs.php:161
+msgid "Portfolio"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4138
+msgid "Portfolio Archive Sidebar Layout"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4158
+msgid "Portfolio Archive Sidebar"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4164
+msgid "Sidebar Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4168
+msgid "25%"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4169
+msgid "33%"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4188
+msgid "Portfolio Slug"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4194
+msgid "Title On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4200
+msgid "Content On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4220, medify/core/includes/redux/redux-config.php:5570
+msgid "Post Title Settings"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4226, medify/core/includes/redux/redux-config.php:5576
+msgid "Use Custom Post Title?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4232, medify/core/includes/redux/redux-config.php:5582
+msgid "Custom Post Title"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4233, medify/core/includes/redux/redux-config.php:4655, medify/core/includes/redux/redux-config.php:5583
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4250, medify/core/includes/redux/redux-config.php:5600
+msgid "Title Breadcrumbs Alignment"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4322
+msgid "Portfolio Single Type"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4334
+msgid "Content Alignment"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4351
+msgid "Portfolio Single Padding"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4384
+msgid "Portfolio Single Sidebar Layout"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4404
+msgid "Portfolio Single Sidebar"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4411
+msgid "Portfolio Single Sidebar Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4422
+msgid "Portfolio Single Sticky Sidebar On?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4429
+msgid "Portfolio Single Sidebar Side Gap"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4460
+msgid "Post-meta likes On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4472
+msgid "Post-meta author On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4479
+msgid "Post-meta comments On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4486
+msgid "Post-meta categories On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4493
+msgid "Post-meta date On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4508
+msgid "Related Posts On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4528
+msgid "Related Columns"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4549, medify/core/includes/redux/redux-config.php:4592
+msgid "Team"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4556
+msgid "Team Slug"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4585
+msgid "Team Post Title On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4600
+msgid "Page 404"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4607
+msgid "404 Settings"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4617
+msgid "Main Background"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4629
+msgid "Show Header?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4635
+msgid "Show Footer?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4641
+msgid "Show Page Title?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4647
+msgid "Use Custom Page Title?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4835
+msgid "Sidebars"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4843
+msgid "Add Sidebar"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4844
+msgid "Register Sidebars"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4850
+msgid "Sidebar Page Settings"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4934
+msgid "Show Social Share on Pages On/Off"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:4964
+msgid "Offset Top"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5009
+msgid "Add Custom Share?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5017
+msgid "Custom Share Icon 1"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5023
+msgid "Custom Share Link 1"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5030
+msgid "Custom Share Icon 2"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5036
+msgid "Custom Share Link 2"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5043
+msgid "Custom Share Icon 3"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5049
+msgid "Custom Share Link 3"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5056
+msgid "Custom Share Icon 4"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5062
+msgid "Custom Share Link 4"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5069
+msgid "Custom Share Icon 5"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5075
+msgid "Custom Share Link 5"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5082
+msgid "Custom Share Icon 6"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5088
+msgid "Custom Share Link 6"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5095
+msgid "Custom Share Icon 7"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5101
+msgid "Custom Share Link 7"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5108
+msgid "Custom Share Icon 8"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5114
+msgid "Custom Share Link 8"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5121
+msgid "Custom Share Icon 9"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5127
+msgid "Custom Share Link 9"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5134
+msgid "Custom Share Icon 10"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5140
+msgid "Custom Share Link 10"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5148
+msgid "Color Options"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5198
+msgid "Content Font"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5216
+msgid "Headings Main Settings"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5254
+msgid "Main Content"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5265
+msgid "Menu Font"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5280
+msgid "Submenu Font"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5325
+msgid "H1"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5335
+msgid "H2"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5345
+msgid "H3"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5355
+msgid "H4"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5365
+msgid "H5"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5375
+msgid "H6"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5405
+msgid "Headings"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5415, medify/templates/header/section-page_title.php:187
+msgid "Shop"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5422
+msgid "Catalog"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5432
+msgid "Catalog Page Title Background Image"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5444
+msgid "Shop Catalog Sidebar Layout"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5464
+msgid "Shop Catalog Sidebar"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5471
+msgid "Shop Sidebar Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5508
+msgid "Shop Layout"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5510
+msgid "Grid"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5511
+msgid "List"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5518
+msgid "Shop Column"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5531
+msgid "Products per page"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5540
+msgid "Use Animation Shop?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5547
+msgid "Animation Style"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5549
+msgid "Fade In"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5550
+msgid "Slide Top"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5551
+msgid "Slide Bottom"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5552
+msgid "Slide Left"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5553
+msgid "Slide Right"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5554
+msgid "Zoom"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5661
+msgid "Enable Border Top?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5683
+msgid "Select Single Product Layout"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5691
+msgid "Sticky Image"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5696
+msgid "Image Gallery"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5701
+msgid "Full Width Image Gallery"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5706
+msgid "With Background"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5716
+msgid "Shop Single Sidebar Layout"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5737
+msgid "Shop Single Sidebar"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5744
+msgid "Shop Single Sidebar Width"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5755
+msgid "Shop Single Sticky Sidebar On?"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5762
+msgid "Shop Single Sidebar Side Gap"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5807
+msgid "Related products column"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5819
+msgid "Related products per page"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5839
+msgid "Cart Page Title Background Image"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5852
+msgid "Checkout"
+msgstr ""
+
+#: medify/core/includes/redux/redux-config.php:5862
+msgid "Checkout Page Title Background Image"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:334, medify/core/tgm/wgl-tgm.php:53
+msgid "Install Required Plugins"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:335, medify/core/tgm/wgl-tgm.php:54
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: medify/core/tgm/class-tgm-plugin-activation.php:337, medify/core/tgm/wgl-tgm.php:55
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: medify/core/tgm/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:340, medify/core/tgm/wgl-tgm.php:56
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:341, medify/core/tgm/wgl-tgm.php:57
+msgid "This theme requires the following plugins: %1$s."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:345, medify/core/tgm/wgl-tgm.php:58
+msgid "This theme recommends the following plugins: %1$s."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:349, medify/core/tgm/wgl-tgm.php:63
+msgid "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:353
+msgid "There are updates available for the following plugins: %1$s."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:357, medify/core/tgm/wgl-tgm.php:60
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:361, medify/core/tgm/wgl-tgm.php:61
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:365, medify/core/tgm/wgl-tgm.php:65
+msgid "Begin installing plugins"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:369
+msgid "Begin updating plugins"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:373, medify/core/tgm/wgl-tgm.php:66
+msgid "Begin activating plugins"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:377, medify/core/tgm/wgl-tgm.php:67
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:378, medify/core/tgm/class-tgm-plugin-activation.php:897, medify/core/tgm/class-tgm-plugin-activation.php:2603, medify/core/tgm/class-tgm-plugin-activation.php:3650
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:379, medify/core/tgm/class-tgm-plugin-activation.php:3229, medify/core/tgm/wgl-tgm.php:68
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:380, medify/core/tgm/class-tgm-plugin-activation.php:3022
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: medify/core/tgm/class-tgm-plugin-activation.php:382
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: medify/core/tgm/class-tgm-plugin-activation.php:384
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: medify/core/tgm/class-tgm-plugin-activation.php:386
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:387
+msgid "Dismiss this notice"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:388
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:389
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:592
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:593
+msgid "Update Required"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:1007
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:1007, medify/core/tgm/class-tgm-plugin-activation.php:1004
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:1004
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:1191, medify/core/tgm/class-tgm-plugin-activation.php:3018
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: medify/core/tgm/class-tgm-plugin-activation.php:2052
+msgid "TGMPA v%s"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2343
+msgid "Required"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2346
+msgid "Recommended"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2362
+msgid "WordPress Repository"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2365
+msgid "External Source"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2368
+msgid "Pre-Packaged"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2385
+msgid "Not Installed"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2391
+msgid "Active"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2389
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2403
+msgid "Update recommended"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2400
+msgid "Requires Update"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2397
+msgid "Required Update not Available"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: medify/core/tgm/class-tgm-plugin-activation.php:2412
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: medify/core/tgm/class-tgm-plugin-activation.php:2458
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: medify/core/tgm/class-tgm-plugin-activation.php:2462
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: medify/core/tgm/class-tgm-plugin-activation.php:2466
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: medify/core/tgm/class-tgm-plugin-activation.php:2470
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2552
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2560
+msgid "Installed version:"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2568
+msgid "Minimum required version:"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2580
+msgid "Available version:"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2603
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2617
+msgid "Plugin"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2618
+msgid "Source"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2619
+msgid "Type"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2624
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: medify/core/tgm/class-tgm-plugin-activation.php:2678
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: medify/core/tgm/class-tgm-plugin-activation.php:2684
+msgid "Activate %2$s"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2673
+msgid "Install %2$s"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2754
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2787
+msgid "Install"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2793
+msgid "Update"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2829
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2827
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2872
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2870
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:2978
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:3004
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:3228
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: medify/core/tgm/class-tgm-plugin-activation.php:3571
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: medify/core/tgm/class-tgm-plugin-activation.php:3573
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:3585
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: medify/core/tgm/class-tgm-plugin-activation.php:3587
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:3587, medify/core/tgm/class-tgm-plugin-activation.php:3579
+msgid "Show Details"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:3587, medify/core/tgm/class-tgm-plugin-activation.php:3579
+msgid "Hide Details"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:3588
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: medify/core/tgm/class-tgm-plugin-activation.php:3590
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:3577
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:3579
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:3580
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:3582
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: medify/core/tgm/class-tgm-plugin-activation.php:3568
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: medify/core/tgm/wgl-tgm.php:15
+msgid "Medify Core"
+msgstr ""
+
+#: medify/core/tgm/wgl-tgm.php:24
+msgid "Elementor"
+msgstr ""
+
+#: medify/core/tgm/wgl-tgm.php:28
+msgid "Revolution Slider"
+msgstr ""
+
+#: medify/core/tgm/wgl-tgm.php:34
+msgid "WooCommerce"
+msgstr ""
+
+#: medify/core/tgm/wgl-tgm.php:38
+msgid "Contact Form 7"
+msgstr ""
+
+#: medify/core/tgm/wgl-tgm.php:59
+msgid "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr ""
+
+#: medify/core/tgm/wgl-tgm.php:62
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr ""
+
+#: medify/core/tgm/wgl-tgm.php:64
+msgid "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr ""
+
+#: medify/core/tgm/wgl-tgm.php:69
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: medify/functions.php:180, medify/functions.php:183
+msgid "Dropcap"
+msgstr ""
+
+#: medify/functions.php:189
+msgid "Dropcap with dark background"
+msgstr ""
+
+#: medify/functions.php:197
+msgid "Highlighter"
+msgstr ""
+
+#: medify/functions.php:203
+msgid "Double Heading Font"
+msgstr ""
+
+#: medify/functions.php:208
+msgid "Font Weight"
+msgstr ""
+
+#: medify/functions.php:211
+msgid "Lightest (100)"
+msgstr ""
+
+#: medify/functions.php:212
+msgid "Lighter (200)"
+msgstr ""
+
+#: medify/functions.php:213
+msgid "Light (300)"
+msgstr ""
+
+#: medify/functions.php:214
+msgid "Normal (400)"
+msgstr ""
+
+#: medify/functions.php:215
+msgid "Medium (500)"
+msgstr ""
+
+#: medify/functions.php:216
+msgid "Semi-Bold (600)"
+msgstr ""
+
+#: medify/functions.php:217
+msgid "Bold (700)"
+msgstr ""
+
+#: medify/functions.php:218
+msgid "Bolder (800)"
+msgstr ""
+
+#: medify/functions.php:219
+msgid "Extra Bold (900)"
+msgstr ""
+
+#: medify/functions.php:223
+msgid "List Style"
+msgstr ""
+
+#: medify/functions.php:225
+msgid "Check"
+msgstr ""
+
+#: medify/functions.php:226
+msgid "Plus"
+msgstr ""
+
+#: medify/functions.php:227
+msgid "Dash"
+msgstr ""
+
+#: medify/functions.php:228
+msgid "Slash"
+msgstr ""
+
+#: medify/functions.php:229
+msgid "No List Style"
+msgstr ""
+
+#: medify/image.php:85
+msgid "Pages:"
+msgstr ""
+
+#: medify/page.php:30, medify/template-full-width.php:17
+msgid "Read more!"
+msgstr ""
+
+#: medify/page.php:31, medify/template-full-width.php:18, medify/templates/post/post-hero.php:185, medify/templates/post/post-hero.php:260, medify/templates/post/post-standard.php:200, medify/templates/post/single/post-1.php:45, medify/templates/post/single/post-2.php:44, medify/templates/post/single/post-3.php:34
+msgid "Pages"
+msgstr ""
+
+#: medify/search.php:97
+msgid "Nothing Found"
+msgstr ""
+
+#: medify/search.php:104
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: medify/search.php:102
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: medify/search.php:28
+msgid "Search Results for: %s"
+msgstr ""
+
+#: medify/search.php:51
+msgid "Learn More"
+msgstr ""
+
+#: medify/searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: medify/single.php:176
+msgid "Recent Posts"
+msgstr ""
+
+#: medify/single.php:188, medify/templates/post/post-hero.php:43, medify/templates/post/post-medium_img.php:44, medify/templates/post/post-standard.php:43
+msgid "Read More"
+msgstr ""
+
+#: medify/template-full-width.php:3
+msgid "Full Width Page"
+msgstr ""
+
+#: medify/templates/breadcrumbs.php:41
+msgid "Home"
+msgstr ""
+
+#: medify/templates/breadcrumbs.php:42
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: medify/templates/breadcrumbs.php:43
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: medify/templates/breadcrumbs.php:44
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: medify/templates/breadcrumbs.php:45
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: medify/templates/breadcrumbs.php:46
+msgid "Error 404"
+msgstr ""
+
+#: medify/templates/breadcrumbs.php:47
+msgid "Page %s"
+msgstr ""
+
+#: medify/templates/breadcrumbs.php:48
+msgid "Comment Page %s"
+msgstr ""
+
+#: medify/templates/header/section-header.php:1239
+msgid "Type To Search"
+msgstr ""
+
+#: medify/templates/header/section-header.php:1322
+msgid "Logout"
+msgstr ""
+
+#: medify/templates/header/section-header.php:1401
+msgid "Click to open Shopping Cart"
+msgstr ""
+
+#: medify/templates/header/section-page_title.php:232
+msgid "No Posts"
+msgstr ""
+
+#: medify/templates/header/section-page_title.php:184
+msgid "Error Page"
+msgstr ""
+
+#: medify/templates/header/section-page_title.php:180
+msgid "Author:"
+msgstr ""
+
+#: medify/templates/header/section-page_title.php:176
+msgid " Tag"
+msgstr ""
+
+#: medify/woocommerce/cart/cart.php:23, medify/woocommerce/cart/cart.php:56
+msgid "Product"
+msgstr ""
+
+#: medify/woocommerce/cart/cart.php:25, medify/woocommerce/cart/cart.php:76
+msgid "Price"
+msgstr ""
+
+#: medify/woocommerce/cart/cart.php:26, medify/woocommerce/cart/cart.php:82, medify/woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: medify/woocommerce/cart/cart.php:27, medify/woocommerce/cart/cart.php:104
+msgid "Total"
+msgstr ""
+
+#: medify/woocommerce/cart/cart.php:71
+msgid "Available on backorder"
+msgstr ""
+
+#: medify/woocommerce/cart/cart.php:116
+msgid "Remove this item"
+msgstr ""
+
+#: medify/woocommerce/cart/cart.php:137
+msgid "Coupon:"
+msgstr ""
+
+#: medify/woocommerce/cart/cart.php:137
+msgid "Coupon code"
+msgstr ""
+
+#: medify/woocommerce/cart/cart.php:137, medify/woocommerce/cart/cart.php:137
+msgid "Apply coupon"
+msgstr ""
+
+#: medify/woocommerce/cart/cart.php:142, medify/woocommerce/cart/cart.php:142
+msgid "Update cart"
+msgstr ""
+
+#: medify/woocommerce/content-widget-reviews.php:46
+msgid "by %s"
+msgstr ""
+
+#. translators: %s: Quantity.
+#: medify/woocommerce/global/quantity-input.php:24
+msgid "%s quantity"
+msgstr ""
+
+#: medify/woocommerce/global/quantity-input.php:40
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: medify/woocommerce/single-product/related.php:25
+msgid "Related products"
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:232
+msgid "verified owner"
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:211
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:250
+msgid "Add a review"
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:250
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:251
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:259
+msgid "Email"
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:261
+msgid "Submit"
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:272
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:276
+msgid "Your rating"
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:277
+msgid "Rate&hellip;"
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:278
+msgid "Perfect"
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:279
+msgid "Good"
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:280
+msgid "Average"
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:281
+msgid "Not that bad"
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:282
+msgid "Very poor"
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:286
+msgid "Your review"
+msgstr ""
+
+#: medify/woocommerce/woocommerce-init.php:602
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""

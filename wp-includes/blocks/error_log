@@ -1,0 +1,4 @@
+[29-Aug-2024 04:08:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/acekineticshealt/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/acekineticshealt/public_html/wp-includes/blocks/index.php on line 8

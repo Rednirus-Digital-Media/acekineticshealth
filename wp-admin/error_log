@@ -1,0 +1,154 @@
+[29-Aug-2024 20:02:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php:472
+Stack trace:
+#0 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Wgl_Addons_Elementor->save_custom_schemes('')
+#1 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/acekineticshealt/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init('')
+#5 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/acekineticshealt/public_html/wp-settings.php(700): do_action('init')
+#8 /home2/acekineticshealt/public_html/wp-config.php(96): require_once('/home2/acekinet...')
+#9 /home2/acekineticshealt/public_html/wp-load.php(50): require_once('/home2/acekinet...')
+#10 /home2/acekineticshealt/public_html/wp-admin/admin-ajax.php(22): require_once('/home2/acekinet...')
+#11 {main}
+  thrown in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php on line 472
+[30-Aug-2024 07:19:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php:472
+Stack trace:
+#0 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Wgl_Addons_Elementor->save_custom_schemes('')
+#1 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/acekineticshealt/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init('')
+#5 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/acekineticshealt/public_html/wp-settings.php(700): do_action('init')
+#8 /home2/acekineticshealt/public_html/wp-config.php(96): require_once('/home2/acekinet...')
+#9 /home2/acekineticshealt/public_html/wp-load.php(50): require_once('/home2/acekinet...')
+#10 /home2/acekineticshealt/public_html/wp-admin/admin-ajax.php(22): require_once('/home2/acekinet...')
+#11 {main}
+  thrown in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php on line 472
+[30-Aug-2024 11:29:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php:472
+Stack trace:
+#0 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Wgl_Addons_Elementor->save_custom_schemes('')
+#1 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/acekineticshealt/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init('')
+#5 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/acekineticshealt/public_html/wp-settings.php(700): do_action('init')
+#8 /home2/acekineticshealt/public_html/wp-config.php(96): require_once('/home2/acekinet...')
+#9 /home2/acekineticshealt/public_html/wp-load.php(50): require_once('/home2/acekinet...')
+#10 /home2/acekineticshealt/public_html/wp-admin/admin-ajax.php(22): require_once('/home2/acekinet...')
+#11 {main}
+  thrown in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php on line 472
+[30-Aug-2024 12:15:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php:472
+Stack trace:
+#0 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Wgl_Addons_Elementor->save_custom_schemes('')
+#1 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/acekineticshealt/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init('')
+#5 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/acekineticshealt/public_html/wp-settings.php(700): do_action('init')
+#8 /home2/acekineticshealt/public_html/wp-config.php(96): require_once('/home2/acekinet...')
+#9 /home2/acekineticshealt/public_html/wp-load.php(50): require_once('/home2/acekinet...')
+#10 /home2/acekineticshealt/public_html/wp-admin/admin-ajax.php(22): require_once('/home2/acekinet...')
+#11 {main}
+  thrown in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php on line 472
+[30-Aug-2024 18:53:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php:472
+Stack trace:
+#0 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Wgl_Addons_Elementor->save_custom_schemes('')
+#1 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/acekineticshealt/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init('')
+#5 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/acekineticshealt/public_html/wp-settings.php(700): do_action('init')
+#8 /home2/acekineticshealt/public_html/wp-config.php(96): require_once('/home2/acekinet...')
+#9 /home2/acekineticshealt/public_html/wp-load.php(50): require_once('/home2/acekinet...')
+#10 /home2/acekineticshealt/public_html/wp-admin/admin-ajax.php(22): require_once('/home2/acekinet...')
+#11 {main}
+  thrown in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php on line 472
+[31-Aug-2024 01:45:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php:472
+Stack trace:
+#0 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Wgl_Addons_Elementor->save_custom_schemes('')
+#1 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/acekineticshealt/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init('')
+#5 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/acekineticshealt/public_html/wp-settings.php(700): do_action('init')
+#8 /home2/acekineticshealt/public_html/wp-config.php(96): require_once('/home2/acekinet...')
+#9 /home2/acekineticshealt/public_html/wp-load.php(50): require_once('/home2/acekinet...')
+#10 /home2/acekineticshealt/public_html/wp-admin/admin.php(34): require_once('/home2/acekinet...')
+#11 {main}
+  thrown in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php on line 472
+[31-Aug-2024 02:20:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php:472
+Stack trace:
+#0 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Wgl_Addons_Elementor->save_custom_schemes('')
+#1 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/acekineticshealt/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init('')
+#5 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/acekineticshealt/public_html/wp-settings.php(700): do_action('init')
+#8 /home2/acekineticshealt/public_html/wp-config.php(96): require_once('/home2/acekinet...')
+#9 /home2/acekineticshealt/public_html/wp-load.php(50): require_once('/home2/acekinet...')
+#10 /home2/acekineticshealt/public_html/wp-admin/admin.php(34): require_once('/home2/acekinet...')
+#11 /home2/acekineticshealt/public_html/wp-admin/about.php(10): require_once('/home2/acekinet...')
+#12 {main}
+  thrown in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php on line 472
+[31-Aug-2024 02:20:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php:472
+Stack trace:
+#0 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Wgl_Addons_Elementor->save_custom_schemes('')
+#1 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/acekineticshealt/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init('')
+#5 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/acekineticshealt/public_html/wp-settings.php(700): do_action('init')
+#8 /home2/acekineticshealt/public_html/wp-config.php(96): require_once('/home2/acekinet...')
+#9 /home2/acekineticshealt/public_html/wp-load.php(50): require_once('/home2/acekinet...')
+#10 /home2/acekineticshealt/public_html/wp-admin/admin.php(34): require_once('/home2/acekinet...')
+#11 /home2/acekineticshealt/public_html/wp-admin/index.php(10): require_once('/home2/acekinet...')
+#12 {main}
+  thrown in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php on line 472
+[31-Aug-2024 02:20:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php:472
+Stack trace:
+#0 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Wgl_Addons_Elementor->save_custom_schemes('')
+#1 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/acekineticshealt/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init('')
+#5 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/acekineticshealt/public_html/wp-settings.php(700): do_action('init')
+#8 /home2/acekineticshealt/public_html/wp-config.php(96): require_once('/home2/acekinet...')
+#9 /home2/acekineticshealt/public_html/wp-load.php(50): require_once('/home2/acekinet...')
+#10 /home2/acekineticshealt/public_html/wp-admin/admin.php(34): require_once('/home2/acekinet...')
+#11 /home2/acekineticshealt/public_html/wp-admin/themes.php(10): require_once('/home2/acekinet...')
+#12 {main}
+  thrown in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php on line 472
+[31-Aug-2024 07:28:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save_scheme() on bool in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php:472
+Stack trace:
+#0 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Wgl_Addons_Elementor->save_custom_schemes('')
+#1 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home2/acekineticshealt/public_html/wp-content/plugins/elementor/includes/plugin.php(658): do_action('elementor/init')
+#4 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init('')
+#5 /home2/acekineticshealt/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /home2/acekineticshealt/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home2/acekineticshealt/public_html/wp-settings.php(700): do_action('init')
+#8 /home2/acekineticshealt/public_html/wp-config.php(96): require_once('/home2/acekinet...')
+#9 /home2/acekineticshealt/public_html/wp-load.php(50): require_once('/home2/acekinet...')
+#10 /home2/acekineticshealt/public_html/wp-admin/admin.php(34): require_once('/home2/acekinet...')
+#11 /home2/acekineticshealt/public_html/wp-admin/index.php(10): require_once('/home2/acekinet...')
+#12 {main}
+  thrown in /home2/acekineticshealt/public_html/wp-content/plugins/medify-core/includes/elementor/init.php on line 472
